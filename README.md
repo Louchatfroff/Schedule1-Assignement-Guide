@@ -1,6 +1,6 @@
 # Schedule 1 - Single Product Per Dealer Guide
 The best schedule 1 customer assignment guide
-(> **DISCLAIMER:** re-written with claude.ai for better comprehension)
+> **DISCLAIMER:** re-written with claude.ai for better comprehension
 
 ## Sources
 
