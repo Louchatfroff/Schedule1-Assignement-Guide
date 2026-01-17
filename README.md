@@ -1,4 +1,4 @@
-# Schedule 1 - Single Product Per Dealer Guide
+# Schedule 1 - Complete Dealer Guide (Shrooms Update v0.4.2)
 The best schedule 1 customer assignment guide
 > **DISCLAIMER:** re-written with claude.ai for better comprehension
 
@@ -7,69 +7,129 @@ The best schedule 1 customer assignment guide
 1. Schedule 1 Wiki (Fandom) - Customer Data & Product Affinities
    https://schedule-1.fandom.com/wiki/Customers
 
-2. Steam Community Guide - Best Customers for Dealers
+2. Schedule 1 Wiki - Shrooms Update
+   https://schedule-1.fandom.com/wiki/V0.4.2:_Shrooms_Update
+
+3. Steam Community Guide - Best Customers for Dealers
    https://steamcommunity.com/sharedfiles/filedetails/?id=3484798110
 
-3. PC Gamer - Dealers Guide
-   https://www.pcgamer.com/games/sim/schedule-1-dealers-best-customers
-
-4. Schedule 1 Wiki - Dealers Information
-   https://schedule-1.fandom.com/wiki/Dealers
+4. Screen Hype - Best Customers for Dealers (Shrooms Update)
+   https://www.screenhype.co.uk/best-customers-for-all-dealers-in-schedule-1/
 
 
 
-## Strategy: One Product Per Dealer
+## All 64 Customers - Complete Affinity Data
 
-Each dealer stocks only ONE product type. Customers assigned by their strongest product affinity. Simplifies restocking and production.
+| Customer | Region | Budget | Weed | Meth | Shrooms | Cocaine | Best Product | Orders/Week |
+|----------|--------|--------|------|------|---------|---------|--------------|-------------|
+| Alison Knight | Suburbia | $1170 | -0.63 | 0.27 | 0.53 | **1.00** | COCAINE | 2-5 |
+| Anna Chesterfield | Docks | $926 | **1.00** | -0.86 | 0.76 | 0.51 | WEED | 3-6 |
+| Austin Steiner | Northtown | $445 | **0.78** | -0.66 | 0.39 | 0.15 | WEED | 3-6 |
+| Beth Penn | Northtown | $222 | 0.30 | **0.31** | 0.13 | -0.20 | METH | 3-5 |
+| Billy Kramer | Docks | $926 | 0.08 | -0.63 | -0.58 | **0.50** | COCAINE | 1-5 |
+| Bruce Norton | Downtown | $926 | -0.76 | 0.76 | **1.00** | -0.33 | SHROOMS | NEW |
+| Carl Bundy | Suburbia | $1170 | -0.81 | -0.23 | -0.76 | -0.58 | METH | 1-5 |
+| Charles Rowland | Westville | $390 | 0.55 | 0.24 | 0.65 | **1.00** | COCAINE | 7 |
+| Chloe Bowers | Northtown | $222 | 0.44 | **0.79** | 0.17 | 0.25 | METH | 6-7 |
+| Chris Sullivan | Suburbia | $1170 | -0.83 | 0.40 | -0.23 | **0.79** | COCAINE | 1-5 |
+| Cranky Frank | Docks | $926 | 0.68 | **1.00** | -0.13 | 0.02 | METH | 3-6 |
+| Dean Webster | Westville | $950 | 0.51 | **1.00** | -0.08 | 0.00 | METH | 3-6 |
+| Dennis Kennedy | Suburbia | $1170 | **0.26** | 0.08 | -0.47 | -0.89 | WEED | 1-5 |
+| Donna Martin | Northtown | $390 | **0.93** | -0.27 | 0.32 | 0.25 | WEED | 1-5 |
+| Doris Lubbin | Westville | $390 | 0.46 | 0.16 | **0.75** | 0.58 | SHROOMS | 1-5 |
+| Elizabeth Homley | Downtown | $682 | 0.33 | **0.45** | -0.40 | 0.32 | METH | 1-5 |
+| Eugene Buckley | Downtown | $682 | **0.66** | 0.11 | 0.10 | 0.17 | WEED | 1-5 |
+| Fiona Hancock | Uptown | $1706 | 0.03 | 0.08 | **0.27** | -0.50 | SHROOMS | 1-5 |
+| Genghis Barn | Docks | $926 | **0.85** | -0.64 | -0.48 | 0.45 | WEED | 1-5 |
+| George Greene | Westville | $1048 | **0.90** | 0.37 | -0.37 | -0.15 | WEED | 3-6 |
+| Geraldine Poon | Northtown | $1023 | **1.00** | 0.66 | **1.00** | 0.26 | WEED/SHROOMS | 3-6 |
+| Greg Figgle | Downtown | $682 | **0.58** | -0.58 | -0.91 | -0.35 | WEED | 1-5 |
+| Hank Stevenson | Suburbia | $1170 | -0.58 | **0.56** | -0.09 | 0.21 | METH | 1-5 |
+| Harold Colt | Suburbia | $1170 | -0.95 | -0.78 | -0.88 | -0.70 | NONE | 1-5 |
+| Herbert Bleuball | Uptown | $1706 | **0.81** | 0.39 | 0.71 | 0.27 | WEED | 1-5 |
+| Irene Meadows | Uptown | $1706 | 0.39 | -0.26 | -0.68 | **0.88** | COCAINE | NEW |
+| Jack Knight | Suburbia | $1170 | 0.66 | **0.89** | 0.75 | 0.10 | METH | 1-5 |
+| Jackie Stevenson | Suburbia | $1170 | **0.89** | -0.60 | -0.98 | 0.28 | WEED | 3-6 |
+| Javier Perez | Docks | $529 | **0.72** | -0.30 | 0.66 | 0.45 | WEED | 2-5 |
+| Jeff Gilmore | Downtown | $390 | 0.75 | -0.84 | **0.89** | -0.31 | SHROOMS | 4-7 |
+| Jen Heard | Uptown | $1706 | 0.41 | -0.79 | -0.48 | **1.00** | COCAINE | 3-6 |
+| Jennifer Rivera | Downtown | $682 | -0.88 | 0.42 | -0.94 | **0.65** | COCAINE | 1-5 |
+| Jeremy Wilkinson | Suburbia | $1170 | 0.58 | 0.53 | -0.89 | **0.83** | COCAINE | 1-5 |
+| Jerry Montero | Westville | $487 | 0.34 | 0.00 | **0.94** | 0.61 | SHROOMS | 4-7 |
+| Jessi Waters | Northtown | $557 | 0.00 | **1.00** | 0.55 | -0.27 | METH | 7 |
+| Joyce Ball | Westville | $390 | **1.00** | 0.59 | 0.45 | -0.64 | WEED | 3-6 |
+| Karen Kennedy | Suburbia | $835 | **0.53** | -0.51 | -0.04 | 0.55 | WEED/COCAINE | 3-6 |
+| Kathy Henderson | Northtown | $445 | **0.55** | 0.27 | -0.80 | -0.61 | WEED | 6-7 |
+| Keith Wagner | Westville | $222 | 0.00 | **1.00** | 0.15 | 0.21 | METH | 3-6 |
+| Kelly Reynolds | Docks | $926 | 0.38 | -0.07 | **1.00** | 0.25 | SHROOMS | NEW |
+| Kevin Oakley | Downtown | $682 | **0.72** | -0.51 | -0.81 | 0.62 | WEED | 3-6 |
+| Kim Delaney | Westville | $682 | 0.73 | -0.57 | -0.63 | **0.86** | COCAINE | 3-6 |
+| Kyle Cooley | Northtown | $487 | **0.72** | 0.70 | 0.17 | -0.41 | WEED | 7 |
+| Lily Turner | Uptown | $1706 | 0.32 | -0.40 | 0.76 | **0.84** | COCAINE | 3-6 |
+| Lisa Gardener | Docks | $926 | -0.82 | -0.36 | -0.78 | -0.28 | COCAINE | 1-5 |
+| Louis Fourier | Downtown | $682 | **0.94** | -0.92 | 0.04 | -0.30 | WEED | 1-5 |
+| Lucy Pennington | Downtown | $682 | **0.64** | -0.80 | 0.24 | 0.19 | WEED | 1-5 |
+| Ludwig Meyer | Northtown | $222 | **0.79** | -0.59 | 0.75 | -0.68 | WEED | 6-7 |
+| Mac Cooper | Docks | $926 | -0.57 | -0.38 | -0.80 | **0.27** | COCAINE | 1-5 |
+| Marco Barone | Docks | $926 | 0.34 | 0.08 | -0.93 | **0.54** | COCAINE | 1-5 |
+| Meg Cooley | Westville | $222 | **0.79** | -0.04 | -0.66 | 0.72 | WEED | 5-7 |
+| Melissa Wood | Docks | $926 | -0.26 | **0.67** | -0.99 | 0.42 | METH | 1-5 |
+| Michael Boog | Uptown | $1706 | 0.17 | **0.95** | 0.77 | 0.70 | METH | 1-5 |
+| Mick Lubbin | Northtown | $445 | -0.73 | **0.88** | -0.08 | 0.37 | METH | 6-7 |
+| Mrs. Ming | Northtown | $390 | **0.61** | -0.25 | 0.42 | -0.22 | WEED | 1-5 |
+| Pearl Moore | Uptown | $1392 | **0.89** | -0.89 | 0.48 | 0.67 | WEED | 1-5 |
+| Peggy Myers | Northtown | $682 | 0.23 | -0.64 | -0.09 | **1.00** | COCAINE | 3-6 |
+| Peter File | Northtown | $682 | **1.00** | 0.40 | 0.24 | 0.74 | WEED | 3-6 |
+| Philip Wentworth | Downtown | $682 | **0.97** | 0.78 | 0.39 | -0.22 | WEED | 1-5 |
+| Randy Caulfield | Downtown | $682 | **1.00** | -0.28 | **1.00** | -0.47 | WEED/SHROOMS | 3-6 |
+| Ray Hoffman | Uptown | $1392 | 0.56 | 0.00 | 0.07 | **1.00** | COCAINE | 3-6 |
+| Sam Thompson | Northtown | $264 | -0.76 | **0.30** | 0.24 | -0.80 | METH | 6-7 |
+| Sherman Giles | Docks | $926 | 0.35 | -0.68 | **1.00** | -0.64 | SHROOMS | NEW |
+| Tobias Wentworth | Uptown | $1706 | 0.19 | **0.76** | 0.41 | 0.17 | METH | 1-5 |
+| Trent Sherman | Westville | $390 | 0.68 | 0.23 | 0.28 | **0.90** | COCAINE | 3-6 |
+| Walter Cussler | Uptown | $1706 | -0.14 | -0.30 | -0.72 | -0.44 | NONE | 1-5 |
 
 
 
-## Dealer Specialization
+## Dealer Specialization (Single Product Per Dealer)
 
-| Dealer | Product | Location | Buy-In |
-|--------|---------|----------|--------|
-| Benji Coleman | WEED | Motel Room #2 | $500 |
-| Brad Crosby | WEED | Parking Garage | $2,000 |
-| Molly Presley | METH | Brown Apartment #1 | $1,000 |
-| Jane Lucero | METH | Docks RV | $3,000 |
-| Wei Long | COCAINE | Suburbia Shack | $4,000 |
-| Leo Rivers | COCAINE | Shipping Container | $5,000 |
+| Dealer | Location | Buy-In | Product | Reason |
+|--------|----------|--------|---------|--------|
+| Benji Coleman | Motel Room #2 | $500 | WEED | Most Northtown customers love weed |
+| Molly Presley | Brown Apartment #1 | $1,000 | METH | Westville has strong meth buyers |
+| Brad Crosby | Parking Garage | $2,000 | SHROOMS | Downtown has best shroom customers |
+| Jane Lucero | Docks RV | $3,000 | WEED | Docks customers prefer weed |
+| Wei Long | Suburbia Shack | $4,000 | COCAINE | Suburbia loves cocaine |
+| Leo Rivers | Shipping Container | $5,000 | COCAINE | Uptown is cocaine territory |
 
 **Total Buy-In:** $15,500
 
 
 
-## Revenue Comparison
+---
 
-| Method | Weekly Gross | Dealer Cut | Your Revenue |
-|--------|--------------|------------|--------------|
-| **Option A:** Hybrid | ~$280,000 | ~$40,500 | ~$239,500 |
-| **Option B:** Full Auto | ~$280,000 | ~$56,000 | ~$224,000 |
+# OPTION A: HYBRID (Personal Dealing + Single Product Dealers)
 
-
+Keep 10 highest-value customers for personal dealing.
 
 ---
 
-# OPTION A: HYBRID (Single Product + Personal Dealing)
+## Personal Dealing (Keep These - 10 VIPs)
 
-Keep 8 highest-value customers for personal dealing.
+| Customer | Region | Budget | Best Product | Affinity | Orders/Week | Weekly Max |
+|----------|--------|--------|--------------|----------|-------------|------------|
+| Jen Heard | Uptown | $1,706 | COCAINE | 1.00 | 6 | $10,236 |
+| Ray Hoffman | Uptown | $1,392 | COCAINE | 1.00 | 6 | $8,352 |
+| Lily Turner | Uptown | $1,706 | COCAINE | 0.84 | 6 | $10,236 |
+| Michael Boog | Uptown | $1,706 | METH | 0.95 | 5 | $8,530 |
+| Irene Meadows | Uptown | $1,706 | COCAINE | 0.88 | 5 | $8,530 |
+| Geraldine Poon | Northtown | $1,023 | WEED | 1.00 | 6 | $6,138 |
+| George Greene | Westville | $1,048 | WEED | 0.90 | 6 | $6,288 |
+| Dean Webster | Westville | $950 | METH | 1.00 | 6 | $5,700 |
+| Jessi Waters | Northtown | $557 | METH | 1.00 | 7 | $3,899 |
+| Jerry Montero | Westville | $487 | SHROOMS | 0.94 | 7 | $3,409 |
 
----
-
-## Personal Dealing (Keep These)
-
-| Customer | Region | Budget | Product | Affinity | Orders/Week | Weekly Max |
-|----------|--------|--------|---------|----------|-------------|------------|
-| Jen Heard | Uptown | $2,000 | COCAINE | 1.00 | 6 | $12,000 |
-| Ray Hoffman | Uptown | $2,000 | COCAINE | 1.00 | 6 | $12,000 |
-| Lily Turner | Uptown | $2,000 | COCAINE | 0.84 | 6 | $12,000 |
-| Michael Boog | Uptown | $2,000 | METH | 0.95 | 5 | $10,000 |
-| Jessi Waters | Northtown | $1,200 | METH | 1.00 | 7 | $8,400 |
-| Geraldine Poon | Northtown | $1,200 | WEED | 1.00 | 6 | $7,200 |
-| George Greene | Westville | $1,400 | WEED | 0.90 | 6 | $8,400 |
-| Dean Webster | Westville | $1,200 | METH | 1.00 | 6 | $7,200 |
-
-**Personal Weekly:** $77,200 (no dealer cut)
+**Personal Weekly Potential:** ~$71,318
 
 
 
@@ -77,33 +137,17 @@ Keep 8 highest-value customers for personal dealing.
 
 | # | Customer | Budget | Weed Affinity | Orders/Week | Weekly Max |
 |---|----------|--------|---------------|-------------|------------|
-| 1 | Peter File | $800 | 1.00 | 6 | $4,800 |
-| 2 | Randy Caulfield | $800 | 1.00 | 6 | $4,800 |
-| 3 | Ludwig Meyer | $500 | 0.79 | 7 | $3,500 |
-| 4 | Kathy Henderson | $800 | 0.55 | 7 | $5,600 |
-| 5 | Kyle Cooley | $900 | 0.72 | 7 | $6,300 |
-| 6 | Austin Steiner | $800 | 0.78 | 6 | $4,800 |
-| 7 | Donna Martin | $500 | 0.93 | 5 | $2,500 |
-| 8 | Mrs. Ming | $500 | 0.61 | 5 | $2,500 |
+| 1 | Peter File | $682 | 1.00 | 6 | $4,092 |
+| 2 | Kyle Cooley | $487 | 0.72 | 7 | $3,409 |
+| 3 | Ludwig Meyer | $222 | 0.79 | 7 | $1,554 |
+| 4 | Kathy Henderson | $445 | 0.55 | 7 | $3,115 |
+| 5 | Austin Steiner | $445 | 0.78 | 6 | $2,670 |
+| 6 | Donna Martin | $390 | 0.93 | 5 | $1,950 |
+| 7 | Mrs. Ming | $390 | 0.61 | 5 | $1,950 |
+| 8 | Beth Penn | $222 | 0.30 | 5 | $1,110 |
 
-**Weekly:** $34,800 | **After Cut:** $27,840
-
-
-
-## BRAD CROSBY - WEED ONLY
-
-| # | Customer | Budget | Weed Affinity | Orders/Week | Weekly Max |
-|---|----------|--------|---------------|-------------|------------|
-| 1 | Louis Fourier | $800 | 0.94 | 5 | $4,000 |
-| 2 | Philip Wentworth | $800 | 0.97 | 5 | $4,000 |
-| 3 | Jeff Gilmore | $800 | 0.75 | 7 | $5,600 |
-| 4 | Kevin Oakley | $800 | 0.72 | 6 | $4,800 |
-| 5 | Lucy Pennington | $800 | 0.64 | 5 | $4,000 |
-| 6 | Eugene Buckley | $800 | 0.66 | 5 | $4,000 |
-| 7 | Greg Figgle | $800 | 0.58 | 5 | $4,000 |
-| 8 | Elizabeth Homley | $800 | 0.33 | 5 | $4,000 |
-
-**Weekly:** $34,400 | **After Cut:** $27,520
+**Weekly Potential:** $19,850
+**After 20% Cut:** $15,880
 
 
 
@@ -111,35 +155,53 @@ Keep 8 highest-value customers for personal dealing.
 
 | # | Customer | Budget | Meth Affinity | Orders/Week | Weekly Max |
 |---|----------|--------|---------------|-------------|------------|
-| 1 | Keith Wagner | $500 | 1.00 | 6 | $3,000 |
-| 2 | Cranky Frank | $1,000 | 1.00 | 6 | $6,000 |
-| 3 | Mick Lubbin | $800 | 0.88 | 7 | $5,600 |
-| 4 | Chloe Bowers | $500 | 0.79 | 7 | $3,500 |
-| 5 | Tobas Wentworth | $2,000 | 0.76 | 5 | $10,000 |
-| 6 | Melissa Wood | $1,000 | 0.67 | 5 | $5,000 |
-| 7 | Hank Stevenson | $1,200 | 0.56 | 5 | $6,000 |
-| 8 | Sam Thompson | $500 | 0.30 | 7 | $3,500 |
+| 1 | Keith Wagner | $222 | 1.00 | 6 | $1,332 |
+| 2 | Cranky Frank | $926 | 1.00 | 6 | $5,556 |
+| 3 | Mick Lubbin | $445 | 0.88 | 7 | $3,115 |
+| 4 | Chloe Bowers | $222 | 0.79 | 7 | $1,554 |
+| 5 | Tobias Wentworth | $1,706 | 0.76 | 5 | $8,530 |
+| 6 | Melissa Wood | $926 | 0.67 | 5 | $4,630 |
+| 7 | Hank Stevenson | $1,170 | 0.56 | 5 | $5,850 |
+| 8 | Jack Knight | $1,170 | 0.89 | 5 | $5,850 |
 
-**Weekly:** $42,600 | **After Cut:** $34,080
+**Weekly Potential:** $36,417
+**After 20% Cut:** $29,134
 
 
 
-## JANE LUCERO - METH ONLY
+## BRAD CROSBY - SHROOMS ONLY
 
-| # | Customer | Budget | Meth Affinity | Orders/Week | Weekly Max |
+| # | Customer | Budget | Shrooms Affinity | Orders/Week | Weekly Max |
+|---|----------|--------|------------------|-------------|------------|
+| 1 | Bruce Norton | $926 | 1.00 | 5 | $4,630 |
+| 2 | Randy Caulfield | $682 | 1.00 | 6 | $4,092 |
+| 3 | Jeff Gilmore | $390 | 0.89 | 7 | $2,730 |
+| 4 | Philip Wentworth | $682 | 0.39 | 5 | $3,410 |
+| 5 | Louis Fourier | $682 | 0.04 | 5 | $3,410 |
+| 6 | Lucy Pennington | $682 | 0.24 | 5 | $3,410 |
+| 7 | Eugene Buckley | $682 | 0.10 | 5 | $3,410 |
+| 8 | Elizabeth Homley | $682 | -0.40 | 5 | $3,410 |
+
+**Weekly Potential:** $28,502
+**After 20% Cut:** $22,802
+
+
+
+## JANE LUCERO - WEED ONLY
+
+| # | Customer | Budget | Weed Affinity | Orders/Week | Weekly Max |
 |---|----------|--------|---------------|-------------|------------|
-| 1 | Jack Knight | $1,200 | 0.89 | 5 | $6,000 |
-| 2 | Jennifer Rivera | $800 | 0.42 | 5 | $4,000 |
-| 3 | Beth Penn | $500 | 0.31 | 5 | $2,500 |
-| 4 | Anna Chesterfield | $1,000 | -0.86 | 6 | $6,000 |
-| 5 | Genghis Barn | $1,000 | -0.64 | 5 | $5,000 |
-| 6 | Javier Perez | $1,000 | -0.30 | 5 | $5,000 |
-| 7 | Mac Cooper | $1,000 | -0.38 | 5 | $5,000 |
-| 8 | Lisa Gardener | $1,000 | -0.36 | 5 | $5,000 |
+| 1 | Anna Chesterfield | $926 | 1.00 | 6 | $5,556 |
+| 2 | Genghis Barn | $926 | 0.85 | 5 | $4,630 |
+| 3 | Javier Perez | $529 | 0.72 | 5 | $2,645 |
+| 4 | Kelly Reynolds | $926 | 0.38 | 5 | $4,630 |
+| 5 | Sherman Giles | $926 | 0.35 | 5 | $4,630 |
+| 6 | Billy Kramer | $926 | 0.08 | 5 | $4,630 |
+| 7 | Marco Barone | $926 | 0.34 | 5 | $4,630 |
+| 8 | Mac Cooper | $926 | -0.57 | 5 | $4,630 |
 
-**Weekly:** $38,500 | **After Cut:** $30,800
-
-*Note: Some customers have low meth affinity but are assigned here for slot balance. They'll still buy.*
+**Weekly Potential:** $35,981
+**After 20% Cut:** $28,785
 
 
 
@@ -147,16 +209,17 @@ Keep 8 highest-value customers for personal dealing.
 
 | # | Customer | Budget | Cocaine Affinity | Orders/Week | Weekly Max |
 |---|----------|--------|------------------|-------------|------------|
-| 1 | Alison Knight | $1,200 | 1.00 | 5 | $6,000 |
-| 2 | Charles Rowland | $800 | 1.00 | 7 | $5,600 |
-| 3 | Peggy Myers | $800 | 1.00 | 6 | $4,800 |
-| 4 | Trent Sherman | $500 | 0.90 | 6 | $3,000 |
-| 5 | Kim Delaney | $800 | 0.86 | 6 | $4,800 |
-| 6 | Jeremy Wilkinson | $1,200 | 0.83 | 5 | $6,000 |
-| 7 | Chris Sullivan | $1,200 | 0.79 | 5 | $6,000 |
-| 8 | Karen Kennedy | $1,200 | 0.55 | 6 | $7,200 |
+| 1 | Alison Knight | $1,170 | 1.00 | 5 | $5,850 |
+| 2 | Chris Sullivan | $1,170 | 0.79 | 5 | $5,850 |
+| 3 | Jeremy Wilkinson | $1,170 | 0.83 | 5 | $5,850 |
+| 4 | Karen Kennedy | $835 | 0.55 | 6 | $5,010 |
+| 5 | Jackie Stevenson | $1,170 | 0.28 | 6 | $7,020 |
+| 6 | Dennis Kennedy | $1,170 | -0.89 | 5 | $5,850 |
+| 7 | Carl Bundy | $1,170 | -0.58 | 5 | $5,850 |
+| 8 | Harold Colt | $1,170 | -0.70 | 5 | $5,850 |
 
-**Weekly:** $43,400 | **After Cut:** $34,720
+**Weekly Potential:** $47,130
+**After 20% Cut:** $37,704
 
 
 
@@ -164,172 +227,181 @@ Keep 8 highest-value customers for personal dealing.
 
 | # | Customer | Budget | Cocaine Affinity | Orders/Week | Weekly Max |
 |---|----------|--------|------------------|-------------|------------|
-| 1 | Pearl Moore | $2,000 | 0.67 | 5 | $10,000 |
-| 2 | Herbert Bleuball | $2,000 | 0.27 | 5 | $10,000 |
-| 3 | Fiona Hancock | $2,000 | -0.50 | 5 | $10,000 |
-| 4 | Walter Cussler | $2,000 | -0.44 | 5 | $10,000 |
-| 5 | Jerry Montero | $1,000 | 0.61 | 7 | $7,000 |
-| 6 | Doris Lubbin | $500 | 0.58 | 5 | $2,500 |
-| 7 | Marco Barone | $1,000 | 0.54 | 5 | $5,000 |
-| 8 | Billy Kramer | $1,000 | 0.50 | 5 | $5,000 |
+| 1 | Pearl Moore | $1,392 | 0.67 | 5 | $6,960 |
+| 2 | Herbert Bleuball | $1,706 | 0.27 | 5 | $8,530 |
+| 3 | Fiona Hancock | $1,706 | -0.50 | 5 | $8,530 |
+| 4 | Walter Cussler | $1,706 | -0.44 | 5 | $8,530 |
+| 5 | Peggy Myers | $682 | 1.00 | 6 | $4,092 |
+| 6 | Charles Rowland | $390 | 1.00 | 7 | $2,730 |
+| 7 | Kim Delaney | $682 | 0.86 | 6 | $4,092 |
+| 8 | Trent Sherman | $390 | 0.90 | 6 | $2,340 |
 
-**Weekly:** $59,500 | **After Cut:** $47,600
-
-*Note: Uptown customers have high budgets but some have low cocaine affinity. They'll still buy from Leo.*
+**Weekly Potential:** $45,804
+**After 20% Cut:** $36,643
 
 
 
 ## Option A Summary
 
-| Source | Weekly Potential | After Cut |
-|--------|------------------|-----------|
-| Personal (8) | $77,200 | $77,200 |
-| Benji - WEED (8) | $34,800 | $27,840 |
-| Brad - WEED (8) | $34,400 | $27,520 |
-| Molly - METH (8) | $42,600 | $34,080 |
-| Jane - METH (8) | $38,500 | $30,800 |
-| Wei - COCAINE (8) | $43,400 | $34,720 |
-| Leo - COCAINE (8) | $59,500 | $47,600 |
-| **TOTAL** | **$330,400** | **$279,760** |
+| Source | Product | Weekly Potential | After Cut |
+|--------|---------|------------------|-----------|
+| Personal (10) | Mixed | $71,318 | $71,318 |
+| Benji | WEED | $19,850 | $15,880 |
+| Molly | METH | $36,417 | $29,134 |
+| Brad | SHROOMS | $28,502 | $22,802 |
+| Jane | WEED | $35,981 | $28,785 |
+| Wei | COCAINE | $47,130 | $37,704 |
+| Leo | COCAINE | $45,804 | $36,643 |
+| **TOTAL** | - | **$285,002** | **$242,266** |
 
 
 
 ---
 
-# OPTION B: FULL AUTOMATION (Single Product, No Personal Dealing)
+# OPTION B: FULL AUTOMATION (No Personal Dealing)
 
-All customers assigned to dealers. High-value customers included.
+All customers assigned to dealers for passive income.
 
 ---
 
-## BENJI COLEMAN - WEED ONLY
+## BENJI COLEMAN - WEED ONLY (Full Auto)
 
 | # | Customer | Budget | Weed Affinity | Orders/Week | Weekly Max |
 |---|----------|--------|---------------|-------------|------------|
-| 1 | Geraldine Poon | $1,200 | 1.00 | 6 | $7,200 |
-| 2 | Peter File | $800 | 1.00 | 6 | $4,800 |
-| 3 | Randy Caulfield | $800 | 1.00 | 6 | $4,800 |
-| 4 | Kyle Cooley | $900 | 0.72 | 7 | $6,300 |
-| 5 | Kathy Henderson | $800 | 0.55 | 7 | $5,600 |
-| 6 | Ludwig Meyer | $500 | 0.79 | 7 | $3,500 |
-| 7 | Austin Steiner | $800 | 0.78 | 6 | $4,800 |
-| 8 | Donna Martin | $500 | 0.93 | 5 | $2,500 |
+| 1 | Geraldine Poon | $1,023 | 1.00 | 6 | $6,138 |
+| 2 | Peter File | $682 | 1.00 | 6 | $4,092 |
+| 3 | Kyle Cooley | $487 | 0.72 | 7 | $3,409 |
+| 4 | Ludwig Meyer | $222 | 0.79 | 7 | $1,554 |
+| 5 | Kathy Henderson | $445 | 0.55 | 7 | $3,115 |
+| 6 | Austin Steiner | $445 | 0.78 | 6 | $2,670 |
+| 7 | Donna Martin | $390 | 0.93 | 5 | $1,950 |
+| 8 | Mrs. Ming | $390 | 0.61 | 5 | $1,950 |
 
-**Weekly:** $39,500 | **After Cut:** $31,600
+**Weekly Potential:** $24,878
+**After 20% Cut:** $19,902
 
 
 
-## BRAD CROSBY - WEED ONLY
+## MOLLY PRESLEY - METH ONLY (Full Auto)
+
+| # | Customer | Budget | Meth Affinity | Orders/Week | Weekly Max |
+|---|----------|--------|---------------|-------------|------------|
+| 1 | Jessi Waters | $557 | 1.00 | 7 | $3,899 |
+| 2 | Dean Webster | $950 | 1.00 | 6 | $5,700 |
+| 3 | Keith Wagner | $222 | 1.00 | 6 | $1,332 |
+| 4 | Cranky Frank | $926 | 1.00 | 6 | $5,556 |
+| 5 | Michael Boog | $1,706 | 0.95 | 5 | $8,530 |
+| 6 | Mick Lubbin | $445 | 0.88 | 7 | $3,115 |
+| 7 | Jack Knight | $1,170 | 0.89 | 5 | $5,850 |
+| 8 | Chloe Bowers | $222 | 0.79 | 7 | $1,554 |
+
+**Weekly Potential:** $35,536
+**After 20% Cut:** $28,429
+
+
+
+## BRAD CROSBY - SHROOMS ONLY (Full Auto)
+
+| # | Customer | Budget | Shrooms Affinity | Orders/Week | Weekly Max |
+|---|----------|--------|------------------|-------------|------------|
+| 1 | Bruce Norton | $926 | 1.00 | 5 | $4,630 |
+| 2 | Randy Caulfield | $682 | 1.00 | 6 | $4,092 |
+| 3 | Jerry Montero | $487 | 0.94 | 7 | $3,409 |
+| 4 | Jeff Gilmore | $390 | 0.89 | 7 | $2,730 |
+| 5 | Doris Lubbin | $390 | 0.75 | 5 | $1,950 |
+| 6 | Philip Wentworth | $682 | 0.39 | 5 | $3,410 |
+| 7 | Louis Fourier | $682 | 0.04 | 5 | $3,410 |
+| 8 | Lucy Pennington | $682 | 0.24 | 5 | $3,410 |
+
+**Weekly Potential:** $27,041
+**After 20% Cut:** $21,633
+
+
+
+## JANE LUCERO - WEED ONLY (Full Auto)
 
 | # | Customer | Budget | Weed Affinity | Orders/Week | Weekly Max |
 |---|----------|--------|---------------|-------------|------------|
-| 1 | George Greene | $1,400 | 0.90 | 6 | $8,400 |
-| 2 | Joyce Ball | $500 | 1.00 | 6 | $3,000 |
-| 3 | Anna Chesterfield | $1,000 | 1.00 | 6 | $6,000 |
-| 4 | Louis Fourier | $800 | 0.94 | 5 | $4,000 |
-| 5 | Philip Wentworth | $800 | 0.97 | 5 | $4,000 |
-| 6 | Jeff Gilmore | $800 | 0.75 | 7 | $5,600 |
-| 7 | Jackie Stevenson | $1,200 | 0.89 | 6 | $7,200 |
-| 8 | Meg Cooley | $500 | 0.79 | 7 | $3,500 |
+| 1 | Anna Chesterfield | $926 | 1.00 | 6 | $5,556 |
+| 2 | Kelly Reynolds | $926 | 0.38 | 5 | $4,630 |
+| 3 | Sherman Giles | $926 | 0.35 | 5 | $4,630 |
+| 4 | Genghis Barn | $926 | 0.85 | 5 | $4,630 |
+| 5 | Javier Perez | $529 | 0.72 | 5 | $2,645 |
+| 6 | Billy Kramer | $926 | 0.08 | 5 | $4,630 |
+| 7 | Marco Barone | $926 | 0.34 | 5 | $4,630 |
+| 8 | Melissa Wood | $926 | -0.26 | 5 | $4,630 |
 
-**Weekly:** $41,700 | **After Cut:** $33,360
-
-
-
-## MOLLY PRESLEY - METH ONLY
-
-| # | Customer | Budget | Meth Affinity | Orders/Week | Weekly Max |
-|---|----------|--------|---------------|-------------|------------|
-| 1 | Jessi Waters | $1,200 | 1.00 | 7 | $8,400 |
-| 2 | Dean Webster | $1,200 | 1.00 | 6 | $7,200 |
-| 3 | Keith Wagner | $500 | 1.00 | 6 | $3,000 |
-| 4 | Cranky Frank | $1,000 | 1.00 | 6 | $6,000 |
-| 5 | Michael Boog | $2,000 | 0.95 | 5 | $10,000 |
-| 6 | Mick Lubbin | $800 | 0.88 | 7 | $5,600 |
-| 7 | Jack Knight | $1,200 | 0.89 | 5 | $6,000 |
-| 8 | Chloe Bowers | $500 | 0.79 | 7 | $3,500 |
-
-**Weekly:** $49,700 | **After Cut:** $39,760
+**Weekly Potential:** $35,981
+**After 20% Cut:** $28,785
 
 
 
-## JANE LUCERO - METH ONLY
-
-| # | Customer | Budget | Meth Affinity | Orders/Week | Weekly Max |
-|---|----------|--------|---------------|-------------|------------|
-| 1 | Tobas Wentworth | $2,000 | 0.76 | 5 | $10,000 |
-| 2 | Melissa Wood | $1,000 | 0.67 | 5 | $5,000 |
-| 3 | Hank Stevenson | $1,200 | 0.56 | 5 | $6,000 |
-| 4 | Elizabeth Homley | $800 | 0.45 | 5 | $4,000 |
-| 5 | Jennifer Rivera | $800 | 0.42 | 5 | $4,000 |
-| 6 | Beth Penn | $500 | 0.31 | 5 | $2,500 |
-| 7 | Sam Thompson | $500 | 0.30 | 7 | $3,500 |
-| 8 | Dennis Kennedy | $1,200 | 0.08 | 5 | $6,000 |
-
-**Weekly:** $41,000 | **After Cut:** $32,800
-
-
-
-## WEI LONG - COCAINE ONLY
+## WEI LONG - COCAINE ONLY (Full Auto)
 
 | # | Customer | Budget | Cocaine Affinity | Orders/Week | Weekly Max |
 |---|----------|--------|------------------|-------------|------------|
-| 1 | Alison Knight | $1,200 | 1.00 | 5 | $6,000 |
-| 2 | Charles Rowland | $800 | 1.00 | 7 | $5,600 |
-| 3 | Peggy Myers | $800 | 1.00 | 6 | $4,800 |
-| 4 | Trent Sherman | $500 | 0.90 | 6 | $3,000 |
-| 5 | Kim Delaney | $800 | 0.86 | 6 | $4,800 |
-| 6 | Jeremy Wilkinson | $1,200 | 0.83 | 5 | $6,000 |
-| 7 | Chris Sullivan | $1,200 | 0.79 | 5 | $6,000 |
-| 8 | Karen Kennedy | $1,200 | 0.55 | 6 | $7,200 |
+| 1 | Alison Knight | $1,170 | 1.00 | 5 | $5,850 |
+| 2 | Chris Sullivan | $1,170 | 0.79 | 5 | $5,850 |
+| 3 | Jeremy Wilkinson | $1,170 | 0.83 | 5 | $5,850 |
+| 4 | Karen Kennedy | $835 | 0.55 | 6 | $5,010 |
+| 5 | Jackie Stevenson | $1,170 | 0.28 | 6 | $7,020 |
+| 6 | Dennis Kennedy | $1,170 | -0.89 | 5 | $5,850 |
+| 7 | Carl Bundy | $1,170 | -0.58 | 5 | $5,850 |
+| 8 | Harold Colt | $1,170 | -0.70 | 5 | $5,850 |
 
-**Weekly:** $43,400 | **After Cut:** $34,720
+**Weekly Potential:** $47,130
+**After 20% Cut:** $37,704
 
 
 
-## LEO RIVERS - COCAINE ONLY
+## LEO RIVERS - COCAINE ONLY (Full Auto)
 
 | # | Customer | Budget | Cocaine Affinity | Orders/Week | Weekly Max |
 |---|----------|--------|------------------|-------------|------------|
-| 1 | Jen Heard | $2,000 | 1.00 | 6 | $12,000 |
-| 2 | Ray Hoffman | $2,000 | 1.00 | 6 | $12,000 |
-| 3 | Lily Turner | $2,000 | 0.84 | 6 | $12,000 |
-| 4 | Pearl Moore | $2,000 | 0.67 | 5 | $10,000 |
-| 5 | Jerry Montero | $1,000 | 0.61 | 7 | $7,000 |
-| 6 | Doris Lubbin | $500 | 0.58 | 5 | $2,500 |
-| 7 | Marco Barone | $1,000 | 0.54 | 5 | $5,000 |
-| 8 | Billy Kramer | $1,000 | 0.50 | 5 | $5,000 |
+| 1 | Jen Heard | $1,706 | 1.00 | 6 | $10,236 |
+| 2 | Ray Hoffman | $1,392 | 1.00 | 6 | $8,352 |
+| 3 | Lily Turner | $1,706 | 0.84 | 6 | $10,236 |
+| 4 | Irene Meadows | $1,706 | 0.88 | 5 | $8,530 |
+| 5 | Pearl Moore | $1,392 | 0.67 | 5 | $6,960 |
+| 6 | Herbert Bleuball | $1,706 | 0.27 | 5 | $8,530 |
+| 7 | Fiona Hancock | $1,706 | -0.50 | 5 | $8,530 |
+| 8 | Walter Cussler | $1,706 | -0.44 | 5 | $8,530 |
 
-**Weekly:** $65,500 | **After Cut:** $52,400
+**Weekly Potential:** $69,904
+**After 20% Cut:** $55,923
 
 
 
 ## Option B Summary
 
-| Dealer | Product | Customers | Weekly Potential | After 20% Cut |
-|--------|---------|-----------|------------------|---------------|
-| Benji | WEED | 8 | $39,500 | $31,600 |
-| Brad | WEED | 8 | $41,700 | $33,360 |
-| Molly | METH | 8 | $49,700 | $39,760 |
-| Jane | METH | 8 | $41,000 | $32,800 |
-| Wei | COCAINE | 8 | $43,400 | $34,720 |
-| Leo | COCAINE | 8 | $65,500 | $52,400 |
-| **TOTAL** | - | **48** | **$280,800** | **$224,640** |
+| Dealer | Product | Weekly Potential | After 20% Cut |
+|--------|---------|------------------|---------------|
+| Benji | WEED | $24,878 | $19,902 |
+| Molly | METH | $35,536 | $28,429 |
+| Brad | SHROOMS | $27,041 | $21,633 |
+| Jane | WEED | $35,981 | $28,785 |
+| Wei | COCAINE | $47,130 | $37,704 |
+| Leo | COCAINE | $69,904 | $55,923 |
+| **TOTAL** | - | **$240,470** | **$192,376** |
 
 
 
-## Overflow Customers (8 Remaining)
+## Overflow Customers (12 Remaining)
 
-| Customer | Region | Budget | Best Product | Affinity | Swap For |
-|----------|--------|--------|--------------|----------|----------|
-| Mrs. Ming | Northtown | $500 | WEED | 0.61 | Donna Martin |
-| Kevin Oakley | Downtown | $800 | WEED | 0.72 | Meg Cooley |
-| Lucy Pennington | Downtown | $800 | WEED | 0.64 | - |
-| Eugene Buckley | Downtown | $800 | WEED | 0.66 | - |
-| Greg Figgle | Downtown | $800 | WEED | 0.58 | - |
-| Genghis Barn | Docks | $1,000 | WEED | 0.85 | Joyce Ball |
-| Javier Perez | Docks | $1,000 | WEED | 0.72 | - |
-| Mac Cooper | Docks | $1,000 | COCAINE | 0.27 | Doris Lubbin |
+| Customer | Region | Budget | Best Product | Suggested Swap |
+|----------|--------|--------|--------------|----------------|
+| George Greene | Westville | $1,048 | WEED | Replace Mrs. Ming on Benji |
+| Tobias Wentworth | Uptown | $1,706 | METH | Replace Chloe on Molly |
+| Greg Figgle | Downtown | $682 | WEED | Any Brad slot |
+| Kevin Oakley | Downtown | $682 | WEED | Any Brad slot |
+| Elizabeth Homley | Downtown | $682 | METH | Any Brad slot |
+| Jennifer Rivera | Downtown | $682 | COCAINE | Any Jane slot |
+| Mac Cooper | Docks | $926 | COCAINE | Any Jane slot |
+| Lisa Gardener | Docks | $926 | COCAINE | Any Jane slot |
+| Hank Stevenson | Suburbia | $1,170 | METH | Replace Harold on Wei |
+| Sam Thompson | Northtown | $264 | METH | Low priority |
+| Beth Penn | Northtown | $222 | METH | Low priority |
+| Joyce Ball | Westville | $390 | WEED | Low priority |
 
 
 
@@ -337,33 +409,52 @@ All customers assigned to dealers. High-value customers included.
 
 # QUICK REFERENCE
 
-## Production Requirements
+## Product Summary by Affinity
 
-| Product | Dealers | Total Customers | Priority |
-|---------|---------|-----------------|----------|
-| WEED | Benji + Brad | 16 | High |
-| METH | Molly + Jane | 16 | High |
-| COCAINE | Wei + Leo | 16 | Highest |
+### SHROOMS Lovers (Affinity >= 0.75)
+| Customer | Region | Budget | Affinity |
+|----------|--------|--------|----------|
+| Bruce Norton | Downtown | $926 | 1.00 |
+| Kelly Reynolds | Docks | $926 | 1.00 |
+| Sherman Giles | Docks | $926 | 1.00 |
+| Randy Caulfield | Downtown | $682 | 1.00 |
+| Geraldine Poon | Northtown | $1,023 | 1.00 |
+| Jerry Montero | Westville | $487 | 0.94 |
+| Jeff Gilmore | Downtown | $390 | 0.89 |
+| Michael Boog | Uptown | $1,706 | 0.77 |
+| Anna Chesterfield | Docks | $926 | 0.76 |
+| Lily Turner | Uptown | $1,706 | 0.76 |
+| Ludwig Meyer | Northtown | $222 | 0.75 |
+| Doris Lubbin | Westville | $390 | 0.75 |
+| Jack Knight | Suburbia | $1,170 | 0.75 |
+
+
+### SHROOMS Haters (Affinity <= -0.75)
+| Customer | Region | Affinity |
+|----------|--------|----------|
+| Melissa Wood | Docks | -0.99 |
+| Jackie Stevenson | Suburbia | -0.98 |
+| Jennifer Rivera | Downtown | -0.94 |
+| Marco Barone | Docks | -0.93 |
+| Greg Figgle | Downtown | -0.91 |
+| Jeremy Wilkinson | Suburbia | -0.89 |
+| Harold Colt | Suburbia | -0.88 |
+| Kevin Oakley | Downtown | -0.81 |
+| Mac Cooper | Docks | -0.80 |
+| Kathy Henderson | Northtown | -0.80 |
+| Lisa Gardener | Docks | -0.78 |
+| Carl Bundy | Suburbia | -0.76 |
 
 
 
-## Restocking Priority (by Revenue)
+## Restocking Priority
 
-**Option A:**
-1. Leo (COCAINE) - $47,600
-2. Wei (COCAINE) - $34,720
-3. Molly (METH) - $34,080
-4. Jane (METH) - $30,800
-5. Benji (WEED) - $27,840
-6. Brad (WEED) - $27,520
-
-**Option B:**
-1. Leo (COCAINE) - $52,400
-2. Molly (METH) - $39,760
-3. Wei (COCAINE) - $34,720
-4. Brad (WEED) - $33,360
-5. Jane (METH) - $32,800
-6. Benji (WEED) - $31,600
+1. **Leo Rivers** (COCAINE) - $55,923/week
+2. **Wei Long** (COCAINE) - $37,704/week
+3. **Molly Presley** (METH) - $28,429/week
+4. **Jane Lucero** (WEED) - $28,785/week
+5. **Brad Crosby** (SHROOMS) - $21,633/week
+6. **Benji Coleman** (WEED) - $19,902/week
 
 
 
@@ -371,38 +462,34 @@ All customers assigned to dealers. High-value customers included.
 
 ### Option A - Hybrid (Single Product)
 
-**Personal Dealing:**
-```
-Jen Heard, Ray Hoffman, Lily Turner, Michael Boog,
-Jessi Waters, Geraldine Poon, George Greene, Dean Webster
-```
+**Personal (10):** Jen Heard, Ray Hoffman, Lily Turner, Michael Boog, Irene Meadows, Geraldine Poon, George Greene, Dean Webster, Jessi Waters, Jerry Montero
 
-**Benji (WEED):** Peter File, Randy Caulfield, Ludwig Meyer, Kathy Henderson, Kyle Cooley, Austin Steiner, Donna Martin, Mrs. Ming
+**Benji (WEED):** Peter File, Kyle Cooley, Ludwig Meyer, Kathy Henderson, Austin Steiner, Donna Martin, Mrs. Ming, Beth Penn
 
-**Brad (WEED):** Louis Fourier, Philip Wentworth, Jeff Gilmore, Kevin Oakley, Lucy Pennington, Eugene Buckley, Greg Figgle, Elizabeth Homley
+**Molly (METH):** Keith Wagner, Cranky Frank, Mick Lubbin, Chloe Bowers, Tobias Wentworth, Melissa Wood, Hank Stevenson, Jack Knight
 
-**Molly (METH):** Keith Wagner, Cranky Frank, Mick Lubbin, Chloe Bowers, Tobas Wentworth, Melissa Wood, Hank Stevenson, Sam Thompson
+**Brad (SHROOMS):** Bruce Norton, Randy Caulfield, Jeff Gilmore, Philip Wentworth, Louis Fourier, Lucy Pennington, Eugene Buckley, Elizabeth Homley
 
-**Jane (METH):** Jack Knight, Jennifer Rivera, Beth Penn, Anna Chesterfield, Genghis Barn, Javier Perez, Mac Cooper, Lisa Gardener
+**Jane (WEED):** Anna Chesterfield, Genghis Barn, Javier Perez, Kelly Reynolds, Sherman Giles, Billy Kramer, Marco Barone, Mac Cooper
 
-**Wei (COCAINE):** Alison Knight, Charles Rowland, Peggy Myers, Trent Sherman, Kim Delaney, Jeremy Wilkinson, Chris Sullivan, Karen Kennedy
+**Wei (COCAINE):** Alison Knight, Chris Sullivan, Jeremy Wilkinson, Karen Kennedy, Jackie Stevenson, Dennis Kennedy, Carl Bundy, Harold Colt
 
-**Leo (COCAINE):** Pearl Moore, Herbert Bleuball, Fiona Hancock, Walter Cussler, Jerry Montero, Doris Lubbin, Marco Barone, Billy Kramer
+**Leo (COCAINE):** Pearl Moore, Herbert Bleuball, Fiona Hancock, Walter Cussler, Peggy Myers, Charles Rowland, Kim Delaney, Trent Sherman
 
 
 ### Option B - Full Auto (Single Product)
 
-**Benji (WEED):** Geraldine Poon, Peter File, Randy Caulfield, Kyle Cooley, Kathy Henderson, Ludwig Meyer, Austin Steiner, Donna Martin
-
-**Brad (WEED):** George Greene, Joyce Ball, Anna Chesterfield, Louis Fourier, Philip Wentworth, Jeff Gilmore, Jackie Stevenson, Meg Cooley
+**Benji (WEED):** Geraldine Poon, Peter File, Kyle Cooley, Ludwig Meyer, Kathy Henderson, Austin Steiner, Donna Martin, Mrs. Ming
 
 **Molly (METH):** Jessi Waters, Dean Webster, Keith Wagner, Cranky Frank, Michael Boog, Mick Lubbin, Jack Knight, Chloe Bowers
 
-**Jane (METH):** Tobas Wentworth, Melissa Wood, Hank Stevenson, Elizabeth Homley, Jennifer Rivera, Beth Penn, Sam Thompson, Dennis Kennedy
+**Brad (SHROOMS):** Bruce Norton, Randy Caulfield, Jerry Montero, Jeff Gilmore, Doris Lubbin, Philip Wentworth, Louis Fourier, Lucy Pennington
 
-**Wei (COCAINE):** Alison Knight, Charles Rowland, Peggy Myers, Trent Sherman, Kim Delaney, Jeremy Wilkinson, Chris Sullivan, Karen Kennedy
+**Jane (WEED):** Anna Chesterfield, Kelly Reynolds, Sherman Giles, Genghis Barn, Javier Perez, Billy Kramer, Marco Barone, Melissa Wood
 
-**Leo (COCAINE):** Jen Heard, Ray Hoffman, Lily Turner, Pearl Moore, Jerry Montero, Doris Lubbin, Marco Barone, Billy Kramer
+**Wei (COCAINE):** Alison Knight, Chris Sullivan, Jeremy Wilkinson, Karen Kennedy, Jackie Stevenson, Dennis Kennedy, Carl Bundy, Harold Colt
+
+**Leo (COCAINE):** Jen Heard, Ray Hoffman, Lily Turner, Irene Meadows, Pearl Moore, Herbert Bleuball, Fiona Hancock, Walter Cussler
 
 
 
@@ -410,9 +497,10 @@ Jessi Waters, Geraldine Poon, George Greene, Dean Webster
 
 | | Option A (Hybrid) | Option B (Full Auto) |
 |---|-------------------|----------------------|
-| Personal Customers | 8 | 0 |
+| Personal Customers | 10 | 0 |
 | Dealer Customers | 48 | 48 |
-| Products to Manage | 3 (personal) | 3 (dealers only) |
-| Weekly Revenue | $279,760 | $224,640 |
+| Overflow | 6 | 16 |
+| Weekly Revenue | $242,266 | $192,376 |
 | Time Investment | Moderate | Minimal |
+| Difference | +$49,890 | Baseline |
 | Inventory Complexity | Low | Very Low |
