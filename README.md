@@ -409,46 +409,7 @@ All customers assigned to dealers for passive income.
 
 # QUICK REFERENCE
 
-## Product Summary by Affinity
-
-### SHROOMS Lovers (Affinity >= 0.75)
-| Customer | Region | Budget | Affinity |
-|----------|--------|--------|----------|
-| Bruce Norton | Downtown | $926 | 1.00 |
-| Kelly Reynolds | Docks | $926 | 1.00 |
-| Sherman Giles | Docks | $926 | 1.00 |
-| Randy Caulfield | Downtown | $682 | 1.00 |
-| Geraldine Poon | Northtown | $1,023 | 1.00 |
-| Jerry Montero | Westville | $487 | 0.94 |
-| Jeff Gilmore | Downtown | $390 | 0.89 |
-| Michael Boog | Uptown | $1,706 | 0.77 |
-| Anna Chesterfield | Docks | $926 | 0.76 |
-| Lily Turner | Uptown | $1,706 | 0.76 |
-| Ludwig Meyer | Northtown | $222 | 0.75 |
-| Doris Lubbin | Westville | $390 | 0.75 |
-| Jack Knight | Suburbia | $1,170 | 0.75 |
-
-
-### SHROOMS Haters (Affinity <= -0.75)
-| Customer | Region | Affinity |
-|----------|--------|----------|
-| Melissa Wood | Docks | -0.99 |
-| Jackie Stevenson | Suburbia | -0.98 |
-| Jennifer Rivera | Downtown | -0.94 |
-| Marco Barone | Docks | -0.93 |
-| Greg Figgle | Downtown | -0.91 |
-| Jeremy Wilkinson | Suburbia | -0.89 |
-| Harold Colt | Suburbia | -0.88 |
-| Kevin Oakley | Downtown | -0.81 |
-| Mac Cooper | Docks | -0.80 |
-| Kathy Henderson | Northtown | -0.80 |
-| Lisa Gardener | Docks | -0.78 |
-| Carl Bundy | Suburbia | -0.76 |
-
-
-
 ## Restocking Priority
-
 1. **Leo Rivers** (COCAINE) - $55,923/week
 2. **Wei Long** (COCAINE) - $37,704/week
 3. **Molly Presley** (METH) - $28,429/week
